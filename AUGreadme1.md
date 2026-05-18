@@ -504,7 +504,7 @@ MCX3:
 Left: "&x&f&f&6&6&0&0&l▶ "
 ```
 
-> **注意：** 16進数カラーコードは `WeaponsSPMode` の `Streak_Icon` / `Saychat` / `Title` / `Subtitle` など文字列系の設定で有効です。`UniversalWeaponSystem` 側は通常の `&` コードのみ対応しています。
+
 
 ---
 
